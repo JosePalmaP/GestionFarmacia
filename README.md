@@ -343,7 +343,7 @@ Los microservicios usan valores por defecto si no se definen variables de entorn
 |---|---|---|
 | SPRING_DATASOURCE_URL | jdbc:postgresql://localhost:5432/... | URL de la BD |
 | SPRING_DATASOURCE_USERNAME | postgres | Usuario BD |
-| SPRING_DATASOURCE_PASSWORD | Pelimm2575 | Contraseña BD |
+| SPRING_DATASOURCE_PASSWORD | XXXXXXXX | Contraseña BD |
 | SPRING_KAFKA_BOOTSTRAP_SERVERS | localhost:9092 | Kafka |
 | SPRING_REDIS_HOST | localhost | Redis |
 | VITE_API_URL | http://localhost:8080 | URL del gateway |
